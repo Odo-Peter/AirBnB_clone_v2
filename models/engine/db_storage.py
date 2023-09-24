@@ -15,7 +15,7 @@ from models.review import Review
 
 
 class DBStorage:
-    """this class is the engine to store
+    """This engine DB class works to store
     mysql database
     """
     __engine = None
